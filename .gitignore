@@ -1,0 +1,10 @@
+docs/
+.vs/
+.vscode/
+pulaar/
+dataset/
+*.txt
+*.pdf
+*.gz
+env/
+
