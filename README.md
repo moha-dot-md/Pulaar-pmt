@@ -15,6 +15,6 @@ It will be done in three steps,
     Creating a model that understands voice and gives transcript and produces voic.
 
 
-##FUN FACT:
+## FUN FACT:
 Ndiyam loonde is a Pulaar expression meaning “water from a clay water pot.
 This name was chosen to reflect a unique identity rooted in the culture and language of its speakers, drawing inspiration from everyday life and tradition.
